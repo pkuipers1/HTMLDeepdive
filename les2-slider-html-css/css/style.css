@@ -1,0 +1,10 @@
+html, body{
+    margin: 0; padding: 0;
+}
+.foto{
+    height: 95vh;
+}
+#fotoslider{
+    display: flex;
+    flex-direction: row;
+}
